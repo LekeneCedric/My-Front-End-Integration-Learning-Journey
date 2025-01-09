@@ -5,7 +5,7 @@ As a backend developer, I’ve struggled with front-end integration, especially 
 ## The level i want to reach
 
 <video controls width="100%">
-  <source src="./resources/f-learning-dream.mp4" type="video/mp4">
+  <source src="resources/f-learning-dream.mp4" type="video/mp4">
   Your browser does not support this video format.
 </video>
 
